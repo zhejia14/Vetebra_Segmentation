@@ -71,7 +71,7 @@ Where:
 
 The training process:
 - Uses 3-fold cross-validation (2 folds for training, 1 for validation)
-- Runs for 120 epochs
+- Runs for 150 epochs
 - Saves checkpoints every 25 epochs
 - Uses SGD optimizer with momentum
 - Evaluates on validation set after each epoch
